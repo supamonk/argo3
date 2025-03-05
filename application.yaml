@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/supamonk/argo2
+    repoURL: https://github.com/supamonk/argo3
     targetRevision: master
     path: manifests
   destination:
